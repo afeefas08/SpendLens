@@ -11,6 +11,7 @@ const Expenses = () => {
         </div>
         <div className="-mt-14 md:mt-0 w-full">
         <Top />
+        <h1>Expenses</h1>
         </div>
       </div>
     </main>

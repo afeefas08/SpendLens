@@ -5,7 +5,7 @@ import { IoWalletOutline } from "react-icons/io5";
 
 const BudgetSummary = () => {
   return (
-    <div className='m-5 md:flex md:justify-between gap-2'>
+    <div className='m-5 ml-10 flex flex-wrap gap-2 justify-center sm:justify-start'>
 
         <div className='w-[325px] h-[100px] bg-stone-100 rounded-xl p-5 flex justify-between'>
            <div>
